@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-13T23:13:58.740-0300</date>
+  <logger>JOAO PAULO FERREIRA GOMES</logger>
+  <level>FINE</level>
+  <message>File 120210445-JOAO PAULO FERREIRA GOMES.zip was received. It was sent by JOAO PAULO FERREIRA GOMES from IP 192.168.1.5 at 13-06-2022 23*13*58</message>
+</record>
